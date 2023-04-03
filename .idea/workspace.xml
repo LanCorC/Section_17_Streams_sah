@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7406f32a-781f-4284-9af8-db0f83ee2fb6" name="Changes" comment="">
+    <list default="true" id="7406f32a-781f-4284-9af8-db0f83ee2fb6" name="Changes" comment="Section 17 (Streams 237): Intermediate and Terminal Operations">
+      <change afterPath="$PROJECT_DIR$/src/crg/rla/section17235/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crg/rla/section17235/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/crg/rla/section17235/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crg/rla/section17235/Main.java" afterDir="false" />
@@ -71,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680489180703</updated>
     </task>
+    <task id="LOCAL-00001" summary="Section 17 (Streams 237): Intermediate and Terminal Operations">
+      <created>1680498115826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680498115826</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Section 17 (Streams 237): Intermediate and Terminal Operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 17 (Streams 237): Intermediate and Terminal Operations" />
   </component>
 </project>
